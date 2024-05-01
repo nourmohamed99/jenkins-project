@@ -1,21 +1,14 @@
 pipeline {
     agent any
-
+    
     stages {
-        stage('Build') {
+        stage('Print Hello Nour') {
             steps {
-                echo 'Building..'
+                script {
+                    echo 'Hello Nour'
+                }
             }
         }
-        stage('Test') {
-            steps {
-                echo 'Testing..'
-            }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying..'
-            }
-        }
-    }
+    }
 }
+
