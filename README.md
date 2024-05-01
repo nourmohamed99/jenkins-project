@@ -1,5 +1,6 @@
-![image](https://github.com/nourmohamed99/jenkins-project/assets/88977873/6bc36533-3b87-400c-ac93-fb3d37625dff)# jenkins-project
+# jenkins project
 
 # screenshot:
 
 
+![image](https://github.com/nourmohamed99/jenkins-project/assets/88977873/bdfe3780-86c7-47fb-8598-1d2bbbc76388)
